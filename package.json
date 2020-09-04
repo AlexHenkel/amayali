@@ -23,7 +23,7 @@
     "masonry-layout": "^4.1.1",
     "meteor-node-stubs": "~0.2.0",
     "mongodb": "^3.1.13",
-    "node-sass": "^4.5.2"
+    "node-sass": "^4.13.1"
   },
   "devDependencies": {
     "eslint": "^5.6.0",
